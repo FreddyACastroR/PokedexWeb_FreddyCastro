@@ -1,2 +1,4 @@
 com\mycompany\pokedexweb_freddycastro\JakartaRestConfiguration.class
+models\Pokemon.class
+servlets\PokemonServlet.class
 com\mycompany\pokedexweb_freddycastro\resources\JakartaEE11Resource.class
